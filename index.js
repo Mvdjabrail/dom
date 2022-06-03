@@ -27,7 +27,7 @@ instagram.href = 'https://www.instagram.com/'
 
 ul.append(intocode, google, instagram)
 ul.style.margin = 'auto'
-ul.style.width = '20%'
+ul.style.width = '25%'
 ul.style.justifyContent = 'space-between'
 ul.style.display = 'flex'
 ul.style.padding = '0'
